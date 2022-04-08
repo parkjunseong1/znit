@@ -1,0 +1,13 @@
+https://www.yangsan.go.kr/portal/bbs/list.do?ptIdx=113&mId=0113010000    |성공|
+http://www.uiryeong.go.kr/board/list.uiryeong?boardId=BBS_0000325&menuCd=DOM_000000404001007001&contentsSid=4818&cpath=&cpath=    |성공|
+https://www.haman.go.kr/02688/02689/02736.web    |성공|
+https://www.cng.go.kr/info/00001539/00005621.web    |성공|
+https://www.goseong.go.kr/board/list.goseong?boardId=BBS_0000054&listRow=12&listCel=1&menuCd=DOM_000000103001002000&paging=ok&startPage=1    |성공|
+https://www.namhae.go.kr/portal/board/List.do?gcode=1516&&pageCd=WW0311400000&siteGubun=portal    |성공|
+https://www.hadong.go.kr/opendata/00097/03375.web    |성공|
+https://www.sancheong.go.kr/www/selectBbsNttList.do?bbsNo=259&key=5091    |성공|
+https://www.hygn.go.kr/opendata/03283/02052.web    |검증필요| [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)
+https://www.geochang.go.kr/portal/board/List.do?gcode=1370&&pageCd=WW0301201000    |검증필요| [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+https://www.hc.go.kr/04960/05110/05730.web    |성공|
+https://www.jejusi.go.kr/information/status/sijang.do    |성공|
+http://www.seogwipo.go.kr/info/gov/open/expense.htm    |성공|

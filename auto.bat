@@ -1,0 +1,1 @@
+c:/Users/jiheon/Desktop/znit/.venv/Scripts/python.exe c:/Users/jiheon/Desktop/znit/selenium_1.py
